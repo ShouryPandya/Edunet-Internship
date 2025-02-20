@@ -57,7 +57,9 @@ This project is open-source and available under the MIT License.
 
 ## Contact
 - Name: Shoury Pandya
-- College : AD Patel Institute Of Technology, CVM University
+- B.Tech 3rd Year
+- Stream: Artificial Intelligence and Data Science
+- College: AD Patel Institute Of Technology, CVM University
 - GitHub Profile: [Your GitHub](https://github.com/ShouryPandya)
 - Linkedin Profile:[Your Linkedin](www.linkedin.com/in/shourypandya) 
   
