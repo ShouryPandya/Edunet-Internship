@@ -1,23 +1,64 @@
-# Image Steganography
+# Image Steganography in Python
 
-A simple tool to hide and retrieve messages in an image using a password.
+## Overview
+This project demonstrates an Image Steganography tool implemented in Python, allowing users to embed secret messages within images for secure communication. The application provides an easy-to-use interface for encrypting and decrypting messages hidden inside image files using a passcode for security.
 
-## Requirements
-- Python 3
-- OpenCV (`cv2`)
+## Features
+- **Encrypt and Decrypt Messages**: Hide and retrieve secret messages inside images.
+- **Passcode Protection**: Secure encryption and decryption using a passcode.
+- **Cross-Platform Support**: Runs on Windows, macOS, and Linux.
+- **Image File Support**: Works with standard image formats like JPG and PNG.
 
-Install OpenCV:
-```sh
-pip install opencv-python
-```
+## Technology Used
+- **Programming Language**: Python
+- **Libraries/Frameworks**:
+  - OpenCV (for image processing)
+  - NumPy (for data handling)
+  - OS (for file operations)
+- **Platform Compatibility**: Windows, macOS, Linux
+- **Development Environment**: VS Code, PyCharm, or Jupyter Notebook
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/Image-Steganography-Python.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd Image-Steganography-Python
+   ```
+3. Install dependencies:
+   ```sh
+   pip install opencv-python numpy
+   ```
+4. Run the script:
+   ```sh
+   python steganography.py
+   ```
 
 ## Usage
+### Encrypt a Message:
 1. Run the script.
-2. Enter a message and password.
+2. Enter a message and passcode.
 3. The message is stored inside the image.
-4. Use the same password to retrieve the message.
+4. The encrypted image is saved.
 
-This project is done by : Shoury Pandya 
+### Decrypt a Message:
+1. Run the script.
+2. Select the encrypted image.
+3. Enter the correct passcode.
+4. The hidden message is retrieved.
 
-My Linkedin : www.linkedin.com/in/shourypandya
+## Contributing
+If you want to contribute to this project, feel free to fork it and submit a pull request. Ensure your code follows best practices and is well-documented.
+
+## License
+This project is open-source and available under the MIT License.
+
+## Contact
+- Name: Shoury Pandya
+- College : AD Patel Institute Of Technology, CVM University
+- GitHub Profile: [Your GitHub](https://github.com/ShouryPandya)
+- Linkedin Profile:[Your Linkedin](www.linkedin.com/in/shourypandya) 
+  
 
