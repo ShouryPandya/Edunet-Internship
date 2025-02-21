@@ -61,6 +61,6 @@ This project is open-source and available under the MIT License.
 - Stream: Artificial Intelligence and Data Science
 - College: AD Patel Institute Of Technology, CVM University
 - GitHub Profile: [Your GitHub](https://github.com/ShouryPandya)
-- Linkedin Profile:[Your Linkedin](https://linkedin.com/in/shourypandya) 
+- Linkedin Profile: [Your Linkedin](https://linkedin.com/in/shourypandya) 
   
 
