@@ -21,7 +21,7 @@ This project demonstrates an Image Steganography tool implemented in Python, all
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Image-Steganography-Python.git
+   git clone https://github.com/ShouryPandya/Image-Steganography-Python.git
    ```
 2. Navigate to the project directory:
    ```sh
