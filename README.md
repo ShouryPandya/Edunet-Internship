@@ -53,7 +53,7 @@ This project demonstrates an Image Steganography tool implemented in Python, all
 If you want to contribute to this project, feel free to fork it and submit a pull request. Ensure your code follows best practices and is well-documented.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open source and available under the MIT License.
 
 ## Contact
 - Name: Shoury Pandya
